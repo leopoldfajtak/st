@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Inconsolata for Powerline:pixelsize=15:antialias=true:autohint=true";
-static char *font2[] = {"Sybola:pixelsize=15:antialias=true:autohint=true"};
+static char *font = "Inconsolata for Powerline:pixelsize=18:antialias=true:autohint=true";
+static char *font2[] = {"Sybola:pixelsize=18:antialias=true:autohint=true"};
 
 static int borderpx = 0;
 
