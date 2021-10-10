@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Inconsolata for Powerline:pixelsize=18:antialias=true:autohint=true";
+static char *font = "Inconsolata Nerd Font Mono:pixelsize=18:antialias=true:autohint=true";
 static char *font2[] = {"Symbola:pixelsize=18:antialias=true:autohint=true",
     "TakaoGothic:pixelsize=18:antialias=true:autohint=true"};
 
