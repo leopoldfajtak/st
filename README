@@ -1,6 +1,7 @@
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
+For color emojis to render, [libxft-bgra](https://aur.archlinux.org/packages/libxft-bgra) needs to be installed
 
 
 Requirements
