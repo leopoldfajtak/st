@@ -6,7 +6,8 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Inconsolata Nerd Font Mono:pixelsize=18:antialias=true:autohint=true";
-static char *font2[] = {"Symbola:pixelsize=18:antialias=true:autohint=true",
+static char *font2[] = {
+    "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true",
     "TakaoGothic:pixelsize=18:antialias=true:autohint=true"};
 
 static int borderpx = 0;
@@ -144,7 +145,7 @@ static const char *altcolorname[] = {
  */
 unsigned int defaultfg = 12;
 unsigned int defaultbg = 8;
-static unsigned int defaultcs = 14;
+extern unsigned int defaultcs = 14;
 static unsigned int defaultrcs = 15;
 
 /*
